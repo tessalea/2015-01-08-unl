@@ -108,6 +108,17 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 
 <hr/>
 
+{% if page.etherpad %}
+<p>
+  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  <br/>
+  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+</p>
+{% endif %}
+
+<hr/>
+
+
 <!--
   Show the workshop's schedule.  Edit the items and times in the table
   to match your plans.  You may also want to change 'Day 1' and 'Day
@@ -146,7 +157,7 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 		</tr>
 		<tr>
 			<td>1:00 - 2:30</td>
-			<td style="text-align: right;">Don't repeat yourself (Git Version Control I)</td>
+			<td style="text-align: right;"><a href="novice/git/">Git Version Control I</a></td>
 		</tr>
 		<tr>
 			<td>2:30 - 2:45</td>
@@ -154,7 +165,7 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 		</tr>
 		<tr>
 			<td>2:45 - 4:15</td>
-			<td style="text-align: right;">Collaborate (Git Version Control II)</td>
+			<td style="text-align: right;"><a href="novice/git/">Git Version Control II</a></td>
 		</tr>
 		<tr>
 			<td>4:15 - 4:30</td>
@@ -190,7 +201,7 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 		</tr>
 		<tr>
 			<td>1:00 - 2:30</td>
-			<td style="text-align: right;">Plan for Mistakes (testing)</td>
+			<td style="text-align: right;">Python Testing</td>
 		</tr>
 		<tr>
 			<td>2:30 - 2:40</td>
@@ -198,9 +209,7 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 		</tr>
 		<tr>
 			<td>2:40 - 4:15</td>
-			<td style="text-align: right;">
-			Plan for mistakes (debugging tools)
-			</td>
+			<td style="text-align: right;">Python Debugging Tools</td>
 		</tr>
 		<tr>
 			<td>4:15 - 4:30</td>
@@ -211,25 +220,6 @@ etherpad: https://etherpad.mozilla.org/2015-01-08-unl
 </table>
   </div>
 </div>
-
-<!--
-  Display the Etherpad for the workshop.  You will probably set this
-  up on the first day, so make sure you push changes to GitHub after
-  you have its URL.  To create an Etherpad, go to
-
-      http://etherpad.mozilla.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop (e.g.,
-  '2015-06-10-esu'.
--->
-{% if page.etherpad %}
-<p>
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
-  <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-{% endif %}
-
 <hr/>
 
 <!--
