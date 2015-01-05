@@ -37,17 +37,34 @@ To open first lesson in your browser, click the "click here" link in iPython Not
 <img src="ipython_link.png" style="border:1px solid black;width:600px;margin:10px" />
 <br clear="all" />
 Navigate to the lesson:
-<p><code>~/2015-01-08-unl/lessons/thw-python/vars-types/variables.ipynb</code>)</p>
+<p><code>~/2015-01-08-unl/unl_lessons/python/variables.ipynb</code>)</p>
 
-<div class="toc" markdown="1">
+<b>Note: We assume you installed the course material in your home directory (<code>~/ </code>),
+otherwise, navigate to the location of your <code>2015-01-08-unl</code> folder.</b>
 
-1.  [Analyzing Patient Data](01-numpy.html)
-2.  [Creating Functions](02-func.html)
-3.  [Analyzing Multiple Data Sets](03-loop.html)
-4.  [Making Choices](04-cond.html)
-5.  [Defensive Programming](05-defensive.html)
-6.  [Command-Line Programs](06-cmdline.html)
+<h2>Variables</h2>
+Lesson:
+<p><code>~/2015-01-08-unl/unl_lessons/python/vars-types/variables.ipynb</code></p>
+Excercises:
+<p><code>2015-01-08-unl/unl_lessons/python/vars-types/excercises.ipynb </code></p>
 
-[Reference](../ref/03-python.html)
+<h2>Data structures</h2>
+Lesson:
+<p><code>~/2015-01-08-unl/unl_lessons/python/data-structures/data-structures.ipynb</code></p>
+Excercises:
+<p><code>~/2015-01-08-unl/unl_lessons/python/data-structures/excercises.ipynb </code> </p>
+
+<h2>Flow control</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/python-flowcontrol/python_flow_control.ipynb</code></p>
+
+<h2>Functons and modules</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/python-functions/python_functions_and_modules.ipynb</code></p>
+
+<h2>Defensive Programming</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/defensive/05-defensive.ipynb</code></p>
+
+<h2>Errors</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/errors/07-errors.ipynb</code></p>
 
 </div>
+
