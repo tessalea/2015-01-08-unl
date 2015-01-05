@@ -46,7 +46,7 @@ otherwise, navigate to the location of your <code>2015-01-08-unl</code> folder.<
 Lesson:
 <p><code>~/2015-01-08-unl/unl_lessons/python/vars-types/variables.ipynb</code></p>
 Excercises:
-<p><code>2015-01-08-unl/unl_lessons/python/vars-types/excercises.ipynb </code></p>
+<p><code>~/2015-01-08-unl/unl_lessons/python/vars-types/excercises.ipynb </code></p>
 
 <h2>Data structures</h2>
 Lesson:
