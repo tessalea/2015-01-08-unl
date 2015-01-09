@@ -57,14 +57,14 @@ Excercises:
 <h2>Flow control</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/python-flowcontrol/python_flow_control.ipynb</code></p>
 
-<h2>Numerical Python (NumPy)</h2>
-<p><code>~/2015-01-08-unl/unl_lessons/numpy/01-numpy.ipynb</code></p>
-
-<h2>Python Data Analysis Library (PANDAS)</h2>
-<p><code>~/2015-01-08-unl/unl_lessons/pandas/an-introduction-to-pandas.ipynb</code></p>
-
 <h2>Functons and modules</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/python-functions/python_functions_and_modules.ipynb</code></p>
+
+<h2>Numerical Python (NumPy)</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/numpy/01-numpy.ipynb</code></p>
+
+<h2>Python Data Analysis Library (PANDAS)</h2>
+<p><code>~/2015-01-08-unl/unl_lessons/python/pandas/an-introduction-to-pandas.ipynb</code></p>
 
 <h2>Defensive Programming</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/defensive/05-defensive.ipynb</code></p>
