@@ -57,6 +57,9 @@ Excercises:
 <h2>Flow control</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/python-flowcontrol/python_flow_control.ipynb</code></p>
 
+<h2>Python Data Analysis Library (PANDAS)</h2>
+<p><code>~/2015-01-08-unl/lessons/misc-pandas/an-introduction-to-pandas.ipynb</code></p>
+
 <h2>Functons and modules</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/python-functions/python_functions_and_modules.ipynb</code></p>
 
