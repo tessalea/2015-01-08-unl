@@ -61,7 +61,7 @@ Excercises:
 <p><code>~/2015-01-08-unl/unl_lessons/python/python-functions/python_functions_and_modules.ipynb</code></p>
 
 <h2>Numerical Python (NumPy)</h2>
-<p><code>~/2015-01-08-unl/unl_lessons/python/numpy/01-numpy.ipynb</code></p>
+<p><code>~/2015-01-08-unl/unl_lessons/python/numpy/numpy-short.ipynb</code></p>
 
 <h2>Python Data Analysis Library (PANDAS)</h2>
 <p><code>~/2015-01-08-unl/unl_lessons/python/pandas/an-introduction-to-pandas.ipynb</code></p>
